@@ -5,4 +5,4 @@ Info You have been given a starter project containing an index.html file and an 
 
 You can also try adjusting the code to print the output to the web page instead of the developer console.
 
-Resources (click to download): Lab Assignment- Promising Results.zip
+Resources (click to download): Lab Assignment- Promising Results.zip ....

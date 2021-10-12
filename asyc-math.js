@@ -42,7 +42,7 @@ let slowMath = (function() {
             if (shouldResolve) {
                 return Promise.resolve(a * b);
             } else {
-                return Promise.reject(new Error(`Error multiplying values ${a} and ${b}.`));
+                return Promise.reject(new Error(`Error multipying values ${a} and ${b}.`));
             }
         });
     }

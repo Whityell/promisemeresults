@@ -18,7 +18,7 @@ async function promiseChain() {
         console.log(num8);
     let num9 = await slowMath.add(num8, 32);  
         console.log(num9);
-        console.log(`The final result is ${num9}.`);
+        console.log(`The result is ${num9}.`);
     } catch (e) {
         console.log(e);
     };

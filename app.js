@@ -32,7 +32,7 @@ slowMath.add(6, 2)                         // 1. add together 6 & 2 = 8
     return num9;
 }).then((num9) => {
     console.log(num9);
-    console.log(`The final result is ${num9}.`);
+    console.log(`The result is ${num9}.`);
 }).catch((err) => {
     console.log(err);
 });
